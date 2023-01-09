@@ -9,13 +9,11 @@ Tecnologias: Reactjs,Html,Css,,Github
 ## Screenshots
 
  TELA HOME:   
-![TELA HOME](C:\Users\EDMARIO\Desktop\REACT\primeflix\src\img\2.png)
+![TELA HOME]([C:\Users\EDMARIO\Desktop\REACT\primeflix\src\img\2.png](https://github.com/Edmarioo/primeflix/blob/main/src/img/1.png))
 
-TELA LOGIN:
-![TELA LOGIN](https://github.com/Edmarioo/web-link/blob/main/src/Images/Screenshot/login.png?raw=true)
+TELA DETALHES:
+![TELA DETALHES]([https://github.com/Edmarioo/web-link/blob/main/src/Images/Screenshot/login.png?raw=tru](https://github.com/Edmarioo/primeflix/blob/main/src/img/2.png)e)
 
-TELA CADASTRO DE LINKS:
-![TELA LINK](https://github.com/Edmarioo/web-link/blob/main/src/Images/Screenshot/cad-link.png?raw=true)
+TELA LISTAGEM FAVORITOS:
+![TELA LISTAGEM FAVORITOS]([https://github.com/Edmarioo/web-link/blob/main/src/Images/Screenshot/cad-link.png?raw=true](https://github.com/Edmarioo/primeflix/blob/main/src/img/3.png))
 
-TELA CADASTRO DE REDES SOCIAIS:
-![TELA SOCIAIS](https://github.com/Edmarioo/web-link/blob/main/src/Images/Screenshot/cad-socias.png?raw=true)
