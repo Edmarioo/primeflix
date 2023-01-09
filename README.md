@@ -9,7 +9,7 @@ Tecnologias: Reactjs,Html,Css,,Github
 ## Screenshots
 
  TELA HOME:   
-![TELA HOME](https://github.com/Edmarioo/web-link/blob/main/src/Images/Screenshot/tela-perfil.png?raw=true)
+![TELA HOME](C:\Users\EDMARIO\Desktop\REACT\primeflix\src\img\2.png)
 
 TELA LOGIN:
 ![TELA LOGIN](https://github.com/Edmarioo/web-link/blob/main/src/Images/Screenshot/login.png?raw=true)
